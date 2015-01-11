@@ -30,6 +30,7 @@ manual: index.md
 	$(shell echo '\eject' > eject.md)
 	pandoc --toc --toc-depth=1 -o manual.pdf eject.md $(shell cat index.md)
 	rm eject.md
+	mv manual.pdf $(GEN_DIR)
 
 all: $(GENERATED)
 
