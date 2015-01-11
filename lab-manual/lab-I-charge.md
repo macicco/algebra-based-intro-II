@@ -3,13 +3,9 @@
 ### Equipment
 
 - Tape
--   Various rods and scraps of fur and assorted fabrics
--   Coffee can “ice pail”
--   Glass beaker or jar
--   Vernier charge sensor (four set up per room)
--   Electrophorus supplies (tape, Styrofoam/plastic plate and cup, Al
-    foil and Al pie plate)
-
+- Various rods and scraps of fur and assorted fabrics
+- Coffee can “ice pail”, with small can and glass beaker or jar
+- Vernier charge sensor (four set up per room)
 
 ## Conceptual (C-Level) -- do before lab in Sapling (link in D2L).
 
