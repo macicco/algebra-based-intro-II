@@ -1,6 +1,8 @@
 # Labs
 
 + [lab-I-charge.md](lab-I-charge.md)
++ [lab-II-coulombs-law.md](lab-II-coulombs-law.md)
++ [lab-III-potential.md](lab-III-potential.md)
 
 # To make PDF copies of the labs
 
