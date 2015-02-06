@@ -20,7 +20,8 @@ parallel plate configuration above by mapping out the equipotential lines.
 - Secure the conducting plates *before* putting water in the tray.
 - You need just enough water to cover the bottom of the tray.
 - Ground one conductor (black) and connect the other conductor to +6 volts (red).
-- On one of your sheets of grid paper, map out equipotential lines. Make equipotential lines for at least 5 different voltages.
+- On one of your sheets of grid paper, map out equipotential lines. Make
+  equipotential lines for at least 5 different voltages.
 - Compute the magnitude of the electric field at the points shown on the
   board.
 - Explain the direction of the electric field either in terms of
@@ -33,17 +34,28 @@ parallel plate configuration above by mapping out the equipotential lines.
 
 ### Part 2
 
-Go to one of the electric dipole setups. An electric dipole (a positive and an equal but opposite negative charge) is a crude model of your heart. A simple heart monitor measures the electric potential of your heart with a voltmeter similar to the multimeter you are using in lab today.
+Go to one of the electric dipole setups. An electric dipole (a positive and an
+equal but opposite negative charge) is a crude model of your heart. A simple
+heart monitor measures the electric potential of your heart with a voltmeter
+similar to the multimeter you are using in lab today.
 
-In your heart the positive and negative direction changes as your heart beats, so a heart monitor is really measuring the *change* in potential polarity (sign of the charges) changes.
+In your heart the positive and negative direction changes as your heart beats,
+so a heart monitor is really measuring the *change* in potential polarity
+(sign of the charges) changes.
 
-Your goal in this part is to the two points, one for the black lead from the multimeter and one for the red lead, that will give the biggest *change* in voltage when you switch which point is positive and which is negative. There is more than one correct answer here. To keep this a little realistic, you cannot place the leads between the charge -- that would be like putting your heart monitor *inside* your heart!
+Your goal in this part is to pick two points, one for the black lead from the
+multimeter and one for the red lead, that will give the biggest *change* in
+voltage when you switch which point is positive and which is negative. There
+is more than one correct answer here. To keep this a little realistic, you
+cannot place the leads between the charge -- that would be like putting your
+heart monitor *inside* your heart!
 
 ## Advanced/Extended Lab Ideas (A-Level) Choose ONE
 
 Choose your own topic to investigate. The topic below is only meant as
 possible suggestions.
 
-- Choose one of the other conductor arrangements on the course web site, map the equipotentials, and draw the electric field.
+- Choose one of the other conductor arrangements on the course web site,
+  map the equipotentials, and draw the electric field.
 - Propose **and carry out** an experiment on something you are curious
   about (get your lab instructor’s approval first )
