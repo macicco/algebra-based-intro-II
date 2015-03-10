@@ -3,3 +3,5 @@ lab-II-coulombs-law.md
 lab-III-potential.md
 lab-IV-capacitors-energy.md
 lab-V-resistance-current-voltage.md
+lab-VI-resistor-networks.md
+lab-VII-magnetism.md
