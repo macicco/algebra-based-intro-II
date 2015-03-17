@@ -22,6 +22,7 @@ The two "elements" you will look at are a Christmas light and a resistor.
 + For the Christmas light, measure $I$ and $V$ for all potential settings on the battery eliminator, *starting at the lowest setting.* The bulb may burn out when you reach the highest setting, so make sure you start at the lowest setting and record both current and voltage.
 + Add manual columns for the voltages and currents you measured, and create a calculated column for resistance.
 + For the Christmas light, does resistance change significantly with voltage? Your answer should include a graph of resistance vs voltage.
++ Also graph voltage versus current. Is a *proportional* (not linear) fit a good fit? What about a curved line (either parabolic or exponential)?
 + Repeat your measurements for a resistor and answer the same question: does the resistance change significantly with voltage?
 + Finally, look at the web page below, which includes a graph showing how the resistance of a human changes with applied voltage. Which of the two elements you looked at in lab, the light or the resistor, is a more accurate model of the human body? [Note: *neither* is a great model, but one is better than the other.]
     * [http://eng-electric.blogspot.com/2012/06/grounding-course-lesson2-effect-of.html](http://eng-electric.blogspot.com/2012/06/grounding-course-lesson2-effect-of.html)
