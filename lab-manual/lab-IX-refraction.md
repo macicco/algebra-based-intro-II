@@ -4,35 +4,7 @@
 
 -   Light boxes with power supply and various optics
 
-## Conceptual (C-Level) DONE BEFORE LAB
-
-Light travels in a straight line except when it encounters an interface
-(don’t worry about curved space right now). View the following demos:
-
-<http://www.demonstrations.wolfram.com/SnellsLawOfRefractionWaveFronts/>
-
-<http://www.demonstrations.wolfram.com/FermatsPrincipleAndSnellsLaw/>
-
-<http://www.demonstrations.wolfram.com/ReflectionAndRefractionOnAFlatSurfaceBetweenTwoDifferentMate/>
-
-Draw a picture showing the refraction of light for the following
-situations. Clearly indicate where the actual object is located and
-where the image is located. Indicate apparent depth and actual depth as
-well as what assumptions you make.
-
--   You are looking at a fish under water (n~water~ \> n~air~).
-
-<!-- -->
-
--   You are looking up at a bird while swimming under water.
-
-<span style="font-variant:small-caps;">*Explorations (IN LAB)*</span>:
-
--   Using a rectangular object examine a single ray of light as it
-    enters and leaves the object. When is the offset greatest?
-
--   Try other objects (an equilateral triangle is interesting). What do
-    you notice?
+## Conceptual (C-Level) DONE BEFORE LAB IN SAPLING
 
 ## Basic Lab (B-Level)
 
