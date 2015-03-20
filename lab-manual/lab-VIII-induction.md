@@ -11,20 +11,10 @@
 
 ## Conceptual (C-Level) DONE BEFORE LAB
 
+Students will be asked questions about:
 
-Describe what Faraday’s Law is using your own words.
-
-Run the simulation “Faraday’s Electromagnetic Lab” , and examine the
-following parts: (<http://phet.colorado.edu/en/simulation/faraday>)
-
--   Under the “Pickup Coil” tab, move the magnet into and out of the
-    coil. Start with the magnet on the left, with the N pole closest to
-    the coil. Explain the direction of the current as the magnet moves
-    towards the loop, and away from the coil.
--   Repeat for the S pole being closest to the coil.
--   Use the voltmeter instead of the light bulb, and describe what
-    happens to the voltage driving the current when the magnet is moved
-    faster.
++ How to move a magnet to induce a current (using PhET simulation).
++ How to set up the function generator for part 2 of the B-level.
 
 ## Basic Lab (B-Level)
 
