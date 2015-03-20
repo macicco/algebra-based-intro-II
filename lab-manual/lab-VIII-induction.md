@@ -21,9 +21,11 @@ Students will be asked questions about:
 You will be measuring time-varying voltage signals.
 
 - Your goal in this part is to explain, in terms of Farady's Law, the voltage probe reading you observe when moving a cow magnet into or out of a small solenoid, like you used in the magnetic field lab.  You should take data on at least four cases, ideally all in the same collection run (you can extend the amount of time LoggerPro collects data if you need to): insert the magnet quickly; remove the magnet quickly; insert the magnet slowly; remove the magnet slowly. Your write-up should focus on explaining, using Faraday's Law, how the amplitude and sign of the voltage pulse is related to the way you were using the magnet.
-- *Work with another group on this part.* Get one of the very large 4,000 turn solenoids and place your small solenoid inside it. Connect the voltage probe to the *large* solenoid and connect the *small* solenoid to a function generator. In a single data collection run on LoggerPro, measure the potential difference in the large solenoid at three different frequencies on the function generator: 1Hz, 2Hz, 5Hz. *Note: You will not be able to get these frequencies exactly, but should, with some practice, be able to get within 0.01Hz of these frequencies.* **Your write-up should:**
-    - explain, using Faraday's Law, why the observed signal changes the way it does as you change the frequency;
-    - compare, including uncertainty, the observed increase in voltage when you change from 1Hz to 5Hz with the increase expected from Faraday's
+- *Work with another group on this part.* Get one of the very large 4,000 turn solenoids and place your small solenoid inside it. Connect the voltage probe to the *large* solenoid and connect the *small* solenoid to a function generator. The function generator will generate an AC current in the small solenoid.
+    - *Before you try the experiment,* predict what the voltage-time graph will look like when the frequency generator is set to 1Hz. *Check your reasoning with a Learning Assistant or instructor before proceeding.*
+    - In a single data collection run on LoggerPro, measure the potential difference in the large solenoid at three different frequencies on the function generator: 1Hz, 2Hz, 5Hz. *Note: You will not be able to get these frequencies exactly, but should, with some practice, be able to get within 0.01Hz of these frequencies.* **Your write-up should:**
+        - explain, using Faraday's Law, why the observed signal changes the way it does as you change the frequency;
+        - compare, including uncertainty, the observed increase in voltage when you change from 1Hz to 5Hz with the increase expected from Faraday's
 
 
 ## Advanced/Extended Lab Ideas (A-Level)
