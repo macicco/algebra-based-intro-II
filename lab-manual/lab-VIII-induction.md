@@ -38,33 +38,10 @@ You will be measuring time-varying voltage signals.
 
 ## Advanced/Extended Lab Ideas (A-Level)
 
-Choose **ONE** of the topics below to investigate.
+Choose **ONE** of the topics below to *carry out*, investigate and explain. Your write-up should include a very detailed explanation the effect you observe.
 
--   There are three different aluminum wands that may be mounted on a
+-   There are two different aluminum wands that may be mounted on a
     rotary motion sensor. Mount each one and let it swing between the
-    poles of the mounted magnet pair. Measure the time it takes for each
-    of the wands to come to a stand still. Hypothesize why the wands
-    slow down differently, based on your understanding of Faraday’s Law
-    of Induction.
--   Determine the terminal velocity of magnet in free-fall through
-    conductive pipe. Compare theory to experiment.
--   Use an oscilloscope to determine the amplitude and frequency for the
-    output from the step-down transformer. Compare with DMM voltage
-    reading.
--   Connect one of the small hand-cranked “genencon” generators to the
-    input of an oscilloscope. Map out the DC level of the output versus
-    frequency of cranking, and relate to Faraday’s Law of Induction.
-    Although the generator is a DC generator, notice there is a small AC
-    component that may be investigated as well.
--   Determine the voltage signal from a Hall Effect probe positioned
-    near a working St Louis motor. Make sure to include a diagram of
-    your setup and expected DC and AC signals. Note: Use the Faraday’s
-    Law simulation to determine what to expect when you create a
-    generator.
--   Can you measure a signal in a solenoid surrounding a conductive pipe
-    when a magnet is dropped through the pipe?
--   Determine the motor frequency as a function of current through the
-    electromagnet in a St Louis motor.
--   Examine the signal produced when one of the coil wands swings
-    between the poles of the mounted magnet pair. The coil wands may be
-    mounted on a rotary motion sensor.
+    poles of the mounted magnet pair. Explain why the solid plate slows down, then explain why the slitted plate doesn't.
+-   Drop a strong magnet down a conductive pipe, then drop the same magnet down a non-conducting pipe **(make sure you have something soft under the pipe for the magnet to land on).** Explain why the magnet moves slowly through the conducting pipe.
+-   Propose your own idea *(get instructor approval before you begin)*.
