@@ -32,6 +32,12 @@ manual: index.md
 	rm eject.md
 	mv manual.pdf $(GEN_DIR)
 
+manual_word: index.md
+	$(shell echo '\eject' > eject.md)
+	pandoc --toc --toc-depth=1 --reference-docx=manual-template.docx -o manual.docx eject.md $(shell cat index.md)
+	rm eject.md
+	mv manual.docx $(GEN_DIR)
+
 all: $(GENERATED)
 
 publish:
