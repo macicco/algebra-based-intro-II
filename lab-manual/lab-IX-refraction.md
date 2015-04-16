@@ -20,7 +20,7 @@ plastic objects.
 
 Beware of stray light rays! The height of the light ray from the light
 box (the slit height) is greater than the height of the plastic objects.
-You will always see an un-refracted ray illuminate the top of these
+You will always see an unrefracted ray illuminate the top of these
 objects. If it bothers you use tape to reduce the slit height.
 
 ## Advanced/Extended Lab Ideas (A-Level)
