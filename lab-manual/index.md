@@ -6,3 +6,6 @@ lab-V-resistance-current-voltage.md
 lab-VI-resistor-networks.md
 lab-VII-magnetism.md
 lab-VIII-induction.md
+lab-IX-refraction.md
+lab-X-lenses.md
+lab-XI-spectra.md
